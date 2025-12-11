@@ -3,7 +3,6 @@
 import { ArrowRight, Mail, Instagram, MessageCircle, CheckCircle, Target, Wrench, Rocket, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -125,7 +124,7 @@ export default function Home() {
                       </div>
                       <div className="bg-white rounded-lg p-4 shadow-md">
                         <img 
-                          src="https://k6hrqrxuu8obbfwn.public.blob.vercel-storage.com/temp/ad96ab91-1aa6-4a53-9e63-9897014245ca.png" 
+                          src="https://k6hrqrxuu8obbfwn.public.blob.vercel-storage.com/temp/f1bc6dc5-fc51-4cd5-9ffe-fd5186ad9318.png" 
                           alt="Case de Sucesso - Revisão de Aposentadorias - Foto 2" 
                           className="w-full h-auto rounded"
                         />
